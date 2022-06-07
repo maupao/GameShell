@@ -1,0 +1,26 @@
+Obiettivo della missione
+============
+
+Per mgliorare nell'arte della magia, bisogna conoscere il calcolo mentale.
+
+Preparati, perchè Merlino sta per mettere alla prova la tua velocità con le moltiplicazioni.
+
+Lancia il comando ``gsh check`` per iniziare.
+
+Osservazione
+------
+
+Adesso c'è un vincolo di tempo.
+
+Suggerimento
+----
+
+Si dice che la biblioteca contenga libri di matematica e volumi nascosti.
+
+Comandi utili
+===============
+
+COMMAND  <  FILE
+  Sostituisce l'input standard del comando con un file.
+  Invece di leggere le righe dalla tastiera, il comando leggerà
+  le righe dal file.
