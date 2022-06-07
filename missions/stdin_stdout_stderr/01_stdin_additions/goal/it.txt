@@ -1,0 +1,9 @@
+Obiettivo della missione
+============
+
+Per migliorare nell'arte della magia, è necessario conoscere il calcolo mentale.
+
+Preparati, perchè Merlino sta per mettere alla prova la tua precisione con le somme.
+
+Lancia il comando ``gsh check`` per iniziare.
+
